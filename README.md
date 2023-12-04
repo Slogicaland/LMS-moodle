@@ -7,6 +7,7 @@ LMS Moodle<https://moodle.org/>
 for docker container
 docker pull bitnami/moodle:latest
 git clone https://github.com/Slogicaland/LMS-moodle.git
+chmod -R 777 LMS-moodle
 docker-compose up -d
 after thise you can access thise costomize site i hove thise help to understand lms technology.
 
