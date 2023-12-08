@@ -1,6 +1,6 @@
 # LMS-moodle 
 
-helo thise is bitnami lams moodle with image  you can extract thise image in your cloud(for an example in your google cloud aws cloud)but this is my own customize image so thise image you can change composer.yml file according to your platform for moodle instalation
+helo thise is bitnami lms moodle with image  you can extract thise image in your cloud(for an example in your google cloud aws cloud)but this is my own customize image so thise image you can change composer.yml file according to your platform for moodle instalation
 
 my lms website instalation guide
 LMS Moodle<https://moodle.org/>
